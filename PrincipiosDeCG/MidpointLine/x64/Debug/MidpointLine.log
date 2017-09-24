@@ -1,0 +1,18 @@
+﻿  ShaderFuncs.cpp
+  Plane.cpp
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\plane.cpp(35): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\plane.cpp(36): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\plane.cpp(44): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\plane.cpp(45): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\plane.cpp(127): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Pixel.cpp
+  Application.cpp
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\application.cpp(47): warning C4101: 'channels': variable local sin referencia
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\application.cpp(46): warning C4101: 'img_height': variable local sin referencia
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\src\application.cpp(46): warning C4101: 'img_width': variable local sin referencia
+  MidpointLine.cpp
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\midpointline.cpp(16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\midpointline\midpointline.cpp(17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  MidpointLine.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\MidpointLine.exe
+  MidpointLine.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\MidpointLine.pdb (Partial PDB)

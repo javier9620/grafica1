@@ -1,0 +1,11 @@
+﻿  Poli.cpp
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(24): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(25): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\figuras\src\poli.cpp(41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Figuras.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\Figuras.exe
+  Figuras.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\Figuras.pdb (Partial PDB)

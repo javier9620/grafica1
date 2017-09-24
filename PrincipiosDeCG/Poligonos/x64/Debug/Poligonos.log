@@ -1,0 +1,10 @@
+﻿  Poligonos.cpp
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\poligonos\src\poligonos.cpp(16): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\poligonos\src\poligonos.cpp(17): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\poligonos\src\poligonos.cpp(27): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\desarrollo\grafico\principiosdecg\poligonos\src\poligonos.cpp(30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  Application.cpp
+  Poligonos.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\Poligonos.exe
+  Poligonos.vcxproj -> C:\Users\javier\Desktop\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\Poligonos.pdb (Partial PDB)

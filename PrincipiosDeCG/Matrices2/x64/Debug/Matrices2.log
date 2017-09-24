@@ -1,0 +1,14 @@
+﻿  transformaciones.cpp
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(49): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(63): warning C4101: 'v': variable local sin referencia
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(86): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(99): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(100): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(104): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\javier\desktop\grafico\principiosdecg\matrices2\src\transformaciones.cpp(105): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  Matrices2.vcxproj -> C:\Users\javier\Desktop\Grafico\PrincipiosDeCG\x64\Debug\Matrices2.exe
+  Matrices2.vcxproj -> C:\Users\javier\Desktop\Grafico\PrincipiosDeCG\x64\Debug\Matrices2.pdb (Partial PDB)
